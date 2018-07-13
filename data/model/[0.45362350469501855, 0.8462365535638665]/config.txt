@@ -1,0 +1,11 @@
+NETWORK ARCHITECTURE:
+40000 - 100 - 32 - 4
+
+ACTIVATION FUNCTIONS:
+sigmoid - sigmoid - sigmoid
+
+OPTIMIZER:
+SGD
+
+DATA AUGUMENTATION:
+rescale = 1./255
